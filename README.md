@@ -31,6 +31,11 @@ Esse projeto foi criado com o objetivo de:
 
 ---
 
+## 📌 Status
+Em desenvolvimento
+
+---
+
 ## 🚀 Como executar
 
 1. Clone o repositório:
