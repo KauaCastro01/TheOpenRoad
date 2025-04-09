@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|c:\\users\\kauac\\onedrive\\documentos\\projeto\\projetos_proprios\\console\\theopenroad\\theopenroad\\funcoesjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|solutionrelative:theopenroad\\funcoesjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|c:\\users\\kauac\\onedrive\\documentos\\projeto\\projetos_proprios\\console\\theopenroad\\theopenroad\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|solutionrelative:theopenroad\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\theopenroad\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|solutionrelative:theopenroad\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\theopenroad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743F0F7A-EAF8-4D0A-8769-9F608CBABAC3}|TheOpenRoad\\TheOpenRoad.csproj|solutionrelative:theopenroad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncoesJogo.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\FuncoesJogo.cs",
+              "RelativeDocumentMoniker": "TheOpenRoad\\FuncoesJogo.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\FuncoesJogo.cs",
+              "RelativeToolTip": "TheOpenRoad\\FuncoesJogo.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv38AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:32:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Menus.cs",
+              "RelativeDocumentMoniker": "TheOpenRoad\\Menus.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Menus.cs",
+              "RelativeToolTip": "TheOpenRoad\\Menus.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:11:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Veiculos.cs",
+              "RelativeDocumentMoniker": "TheOpenRoad\\Veiculos.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Veiculos.cs",
+              "RelativeToolTip": "TheOpenRoad\\Veiculos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:32:36.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Program.cs",
+              "RelativeDocumentMoniker": "TheOpenRoad\\Program.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Projeto\\Projetos_Proprios\\Console\\TheOpenRoad\\TheOpenRoad\\Program.cs",
+              "RelativeToolTip": "TheOpenRoad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:25:24.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

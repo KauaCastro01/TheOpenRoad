@@ -1,0 +1,7 @@
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\bin\Debug\TheOpenRoad.exe.config
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\bin\Debug\TheOpenRoad.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\bin\Debug\TheOpenRoad.pdb
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\obj\Debug\TheOpenRoad.csproj.AssemblyReference.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\obj\Debug\TheOpenRoad.csproj.CoreCompileInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\obj\Debug\TheOpenRoad.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Console\TheOpenRoad\TheOpenRoad\obj\Debug\TheOpenRoad.pdb
